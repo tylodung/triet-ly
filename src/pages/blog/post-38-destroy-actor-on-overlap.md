@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /destroy-actor-on-overlap
 title: Destroy Actor on Overlap
-image: https://res.cloudinary.com/several-levels/image/upload/v1516194505/destory-on-overlap_b7f8b3.jpg
+image: http://phuchoisinhluc.vn/wp-content/uploads/2018/01/ma_0224_ISIO_IS_Nose.jpg
 video: W-vP-tCQcDY
 tags: ["beginner"]
 uev: 4.18.3
