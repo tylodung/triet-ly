@@ -1,6 +1,6 @@
 module.exports = {
     blogPostDir: "src/pages/blog", // The name of directory that contains your posts.
-    siteTitle: "Bí Quyết Nấu Ngon", // Site title.
+    siteTitle: "Lời Người Xưa", // Site title.
     siteTitleAlt: "Chuyện mới kể..", // Alternative site title for SEO.
     siteLogo: "https://api.adorable.io/avatars/150/logo.png", // Logo used for SEO and manifest.
     siteUrl: "https://iloves.live/", // Domain of your website without pathPrefix.
