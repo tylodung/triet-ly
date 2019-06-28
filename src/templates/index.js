@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://i.ytimg.com/vi/3dQVLxwD4D0/maxresdefault.jpg' title="Lời Người Xưa" tagline="Lần đầu tôi kể lại.." />
+        <Header image='https://res.cloudinary.com/several-levels/image/upload/v1513954790/cover-photo_axvhnu.jpg' title="Bí Quyết Nấu Ngon" tagline="Tuyệt Chiêu Của Mẹ.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
